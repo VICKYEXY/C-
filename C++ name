@@ -1,8 +1,1 @@
-int main(int arcg, char *argv[]){
-printf ("vitoria silva\n");
-printf("i-i lose my job\n");
 
-system("pause");
-return 0;
-
-}
